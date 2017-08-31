@@ -1,0 +1,36 @@
+body {
+  font-family: "helvetica", sans-serif;
+  color: seashell;
+  font-size: 22px;
+  text-align: center;
+  background-color: black;
+}
+header {
+  display: flex;
+  border: 1px solid white;
+  justify-content: space-between;
+  align-items: center;
+  height: 69px;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  background-color: black;
+}
+.logo {
+  flex-shrink: 50px;
+}
+nav {
+
+}
+  .mission {
+
+}
+.featuredtea {
+
+}
+.locations {
+
+}
+.teacosy {
+
+}
